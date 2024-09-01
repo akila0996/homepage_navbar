@@ -1,0 +1,57 @@
+body{  
+    font-family: "Poppins", sans-serif;
+    background: url("img3.jpg") no-repeat;
+    background-size: cover;
+}
+.menu {
+    background-color: #171616;   
+}
+.menu h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: capitalize;
+    position: relative;
+    top: 1rem;
+    left: 2rem;
+}
+.navbar a {
+    color: white;
+    margin-right: 40px;
+    font-weight: 500;
+    text-decoration: none;
+    position: relative;
+    left: 50rem;
+    font-size: 20px;
+    text-transform: capitalize;
+    bottom: 2rem;
+}
+.banner-text {
+    position: absolute;
+    margin-left: 21rem;
+    top: 22rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+.banner-text p {
+    color: white;
+    font-size: 64px;
+    font-weight: 600;
+}
+.banner-text button{
+    padding: 15px 45px;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    margin-top: 1.2rem;
+    margin-right: 1.5rem;
+    font-weight: 500;  
+}
+.learn-btn{
+    color: white;
+    background-color:transparent;
+    border: solid white 2px;
+}
+.sub-btn{
+    border: none;
+}
